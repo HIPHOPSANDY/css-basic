@@ -1,0 +1,36 @@
+
+header {
+    FONT-SIZE: 500%;
+    background-color: chartreuse;
+}
+p {
+    text-align: center;
+    color: brown;
+
+
+}
+
+h1 {
+    text-align: center;
+}
+body {
+   
+   
+    width: 100%;
+    height: 100%;
+   
+}
+.mobile {
+    float: right;
+    background-color: orange;
+
+}
+span {
+    color: mediumblue;
+}
+
+
+div p {
+    text-align: justify;
+    color: #000000;
+}
